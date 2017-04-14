@@ -1,4 +1,4 @@
-languageCode = "en-us"
+languageCode = "ru-RU"
 title = "scio me nescire"
 baseURL = "http://vvuri.ru/"
 
@@ -6,5 +6,5 @@ theme = "hyde"
 
 [params]
   themeColor = "theme-base-08"
+#  pygmentsuseclasses = false
 
-#Чем более расширяется область знания, тем шире область незнания
