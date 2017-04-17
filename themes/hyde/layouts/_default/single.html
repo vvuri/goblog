@@ -13,7 +13,7 @@
 				<h2>Comments</h2>
 				{{ partial "disqus" . }}
 			{{ end }}
+		Tags: {{ delimit .Params.tags ", " }}
 		</div>
-
   </body>
 </html>

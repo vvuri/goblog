@@ -1,6 +1,6 @@
 +++
 draft = true
 description = ""
-categories = [Python, Programming]
+categories = ["Python", "Programming"]
 tags = []
 +++
