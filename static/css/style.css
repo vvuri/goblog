@@ -1,0 +1,7 @@
+.pagination-bar{width:100%}
+.pagination-bar{height:60px}
+.pagination-bar .pagination{height:60px;line-height:60px;display:block;list-style:none;padding:0 10px;width:auto}
+.pagination-bar .pagination .pagination-next,.pagination-bar .pagination .pagination-prev{float:left;margin-right:10px}
+.pagination-bar .pagination .pagination-number{float:right;font-size:1.3rem;color:#9eabb3}
+.btn--small{padding:8px 15px}
+.btn--small{font-size:1.3rem}
